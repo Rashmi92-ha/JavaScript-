@@ -1,0 +1,9 @@
+{
+  "name": "date-formats",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "date-fns": "^4.1.0",
+    "luxon": "^3.6.1"
+  }
+}
